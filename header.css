@@ -1,0 +1,90 @@
+.div_home{
+    width: 100%;
+    height: 100vh;
+    background-image: url("image/library.jpg");
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.div_titre_login{
+    width: 100%;
+    height: 100px;
+    background-color: bisque;
+    text-align: center;
+}   
+/*.div_user{
+    display: ;
+}*/
+.div_user{
+    width: 300px;
+    height: 500px;
+    background-color: bisque;
+    border: 10px solid;
+    border-color: white;
+    align-items: center;
+    justify-content: center;
+
+}
+.div_book_details{
+    width: 300px;
+    height: 500px;
+    border: 10px solid;
+    border-color: white;
+    background-color: bisque;
+
+}
+
+.div_button{
+    display: flex;
+    justify-content: center;
+} 
+.div_img_details{
+    width: 200px;
+    height: 300px;
+}
+.titre{
+    border: 10px solid;
+    border-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+.img{
+    width: 150px;
+    height: 200px;
+
+}
+.card-img-top{
+    width: 325px;
+    height: 300px;
+
+}
+.div_resultat{
+    width: 100%;
+    height: 100vh;
+    background-image: url("image/library.jpg");
+    border: 5px solid;
+    display: flex;
+    justify-content:center;
+
+}
+
+.resultat1{
+    background-color:bisque;
+    border-radius: 10px;
+}
+.resultat2{
+    height: 40px;
+    background-color:bisque;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+.titre_resultat{
+    width: 100%;
+    height: 10vh;
+    background-color: sienna;
+    justify-content: center;
+    align-items: center;
+    
+}
